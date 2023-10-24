@@ -1,4 +1,6 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+import { toCapital } from '../helpers/toCapital'
 
 const Item = ( {producto} ) => {
   return (
@@ -7,9 +9,9 @@ const Item = ( {producto} ) => {
       <div>
         <h4>{producto.titulo}</h4>
         <p>Precio: ${producto.precio}</p>
-        <p>Categoria: {producto.categoria}</p>
+        <p>Categoria: {toCapital(producto.categoria)}</p>
         <p> {producto.descripcion}</p>
-        <a className="ver-mas" href={'/item/${productos.id}'}> Ver más</a>
+        <Link className="ver-mas" to={`/item/${producto.id}`}> Ver más</Link>
       </div>
     </div>
   )
