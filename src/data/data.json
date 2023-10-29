@@ -5,7 +5,8 @@
         "descripcion": "Sofía es un anillo de oro 18k. Cuenta con un diseño de piedras cubic zirconia de marca Swarovski compuesto por una central de 4mm y quince laterales de 1.5mm de diámetro, todas de talla brillante. Todos los anillos incluyen un ajuste de medida sin cargo por tres meses. Se entrega garantía escrita de por vida en cuanto al título del metal y calidad de las piedras",
         "categoria": "anillo",
         "imagen": "https://paogi.com/cdn/shop/products/Sofia4_5mm.1.jpg?v=1683750407",
-        "precio": 824.600
+        "precio": 824.600,
+        "stock": 10
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "descripcion": "Encanto es un anillo de oro 18k. elaborado gracias a la tecnología de la impresión 3D. Se encuentra disponible en los colores rosa, amarillo o blanco paladio y su ancho es de 5mm. Todos los anillos incluyen un ajuste de medida sin cargo por tres meses. Se entrega garantía escrita de por vida en cuanto al título del metal y calidad de las piedras.",
         "categoria": "anillo",
         "imagen": "https://paogi.com/cdn/shop/files/posicion-anillos-web_Mesadetrabajo1copia23.png?v=1683743608",
-        "precio": 747.100
+        "precio": 747.100,
+        "stock": 10
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "descripcion": "Aura es un anillo de oro 18k. Tiene una combinación de piedras compuesta por un cubic zirconia marca Swarovski de 6x4mm y talla oval de color rosa en el centro y 8 diamantes naturales de talla brillante de 1.5mm de diámetro (.12CT) en los laterales. Todos los anillos incluyen un ajuste de medida sin cargo por tres meses. Se entrega garantía escrita de por vida.",
         "categoria": "anillo",
         "imagen": "https://paogi.com/cdn/shop/files/posicion-anillos-web_aura_a153ad9b-1790-46e5-9ffa-995b06e70cb4.png?v=1683304029",
-        "precio": 608.110
+        "precio": 608.110,
+        "stock": 10
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "descripcion": "Queen es un anillo de oro 18k. Podés elegir entre los colores rosa, amarillo o blanco paladio. Cuenta con veintiseis piedras cubic zirconia de marca Swarovski talla brillante de 1.25mm. Todos los anillos incluyen un ajuste de medida sin cargo por tres meses. Se entrega garantía escrita de por vida en cuanto al título del metal y calidad de las piedras.",
         "categoria": "anillo",
         "imagen": "https://paogi.com/cdn/shop/files/posicion-anillos-web_queen.png?v=1683750260",
-        "precio": 602.260
+        "precio": 602.260,
+        "stock": 10
     
     },
     {
@@ -38,7 +42,8 @@
         "descripcion": "La Loira es una alianza de oro 18k. Podés elegir entre los colores rosa, amarillo o blanco paladio. Con un ancho de 2mm. pesa aproximadamente 2gr. Cuenta con tres piedras cubics zirconia marca Swarovski: una central talla pera de 5x3mm. y dos laterales talla navette de 4x2mm. Todos los anillos incluyen un ajuste de medida sin cargo.",
         "categoria": "anillo",
         "imagen": "https://paogi.com/cdn/shop/files/alianzas_loira-glam_b795cf98-8916-4d72-a73d-3289f643f715.png?v=1683044031",
-        "precio": 602.260
+        "precio": 602.260,
+        "stock": 10
     },
     {
         "id": 6,
@@ -46,7 +51,8 @@
         "descripcion": "La Sena es una alianza vanguardista que se destaca por su forma símil media caña, ranuras diagonales en su superficie y anchos distintos. Con un ancho de 2mm. pesa aproximadamente 1gr. de oro 18k rosa, amarillo, blanco paladio o blanco de liga. Cuenta con tres piedras cubic zirconia de marca Swarovski de 1.25mm. de diámetro.",
         "categoria": "anillo",
         "imagen": "https://paogi.com/cdn/shop/files/posicion-alianzas-web_sena-glam-48_840bffb7-9f08-41fc-b482-33fdde502c3f.png?v=1683055614",
-        "precio": 185.050
+        "precio": 185.050,
+        "stock": 10
     },
     {
         "id": 7,
@@ -54,7 +60,8 @@
         "descripcion": "Los Afrodita son aros de oro rosa 18k.Cuentan con dos diamantes naturales de talla brillante de 3mm. de diámetro cada uno (.20CT en total).Con todas nuestras piezas se entrega garantía escrita de por vida en cuanto al título del metal y calidad de las piedras . ",
         "categoria": "aros",
         "imagen": "https://paogi.com/cdn/shop/products/ArosAFRODITAororosa_1_89f7a18c-3b3d-4b06-b61d-7ea17cbbda89.jpg?v=1680298481",
-        "precio": 872.200
+        "precio": 872.200,
+        "stock": 10
     },
     {
         "id": 8,
@@ -62,7 +69,8 @@
         "descripcion": "Los Libra Stone son aros trepadores de oro rosa 18k, inspirados en la constelación de Libra. Cuentan con dieciséis diamantes naturales talla brillante de 1.5mm. de diámetro (.24CT).Con todas nuestras piezas se entrega garantía escrita de por vida en cuanto al título del metal.",
         "categoria": "aros",
         "imagen": "https://paogi.com/cdn/shop/products/ArosLIBRASTONE_3.png?v=1679065883",
-        "precio": 798.450
+        "precio": 798.450,
+        "stock": 10
     },
     {
         "id": 9,
@@ -70,7 +78,8 @@
         "descripcion": "Los Ninfas son aros inspirados en las formas más oníricas de la naturaleza.Elaborados en oro 18k amarillo, rosa o blanco paladio. Cuentan con siete piedras cubic Swarovski: tres talla navette de 4x2mm. y cuatro talla brillante de 1.5mm. de diámetro.'",
         "categoria": "aros",
         "imagen": "https://paogi.com/cdn/shop/products/ArosNINFA_1.jpg?v=1679064609",
-        "precio": 586.820
+        "precio": 586.820,
+        "stock": 10
     },
     {
         "id": 10,
@@ -78,7 +87,8 @@
         "descripcion": "Los Unicorn son aros de oro rosa 18k con una piedra cubic zirconia Swarovski en cada uno. El cierre es tipo tic.Con todas nuestras piezas se entrega garantía escrita de por vida en cuanto al título del metal y calidad de las piedras.",
         "categoria": "aros",
         "imagen": "https://paogi.com/cdn/shop/products/ArosUNICORN_1.jpg?v=1674063951",
-        "precio": 266.540
+        "precio": 266.540,
+        "stock": 10
     },
     {
         "id": 11,
@@ -86,7 +96,8 @@
         "descripcion": "Los Oli son abridores de oro amarillo 18k.Cuentan con piedras cubic zirconia de marca Swarovski talla brillante y podés elegir que sea de 3mm.o 4mm. de diámetro. El cierre es tipo tic.Con todas nuestras piezas se entrega garantía",
         "categoria": "aros",
         "imagen": "https://paogi.com/cdn/shop/products/ArosOLI_1.jpg?v=1674063626",
-        "precio": 83.180
+        "precio": 83.180,
+        "stock": 10
     },
     {
         "id": 12,
@@ -94,7 +105,8 @@
         "descripcion": "Los Pili son abridores de oro amarillo 18k con piedras cubic zirconia de marca Swarovski talla brillante de 3mm. de diámetro.Con todas nuestras piezas se entrega garantía escrita de por vida en cuanto al título del metal",
         "categoria": "aros",
         "imagen": "https://paogi.com/cdn/shop/products/ArosPILIoroamarillo_3.jpg?v=1674063709",
-        "precio": 77.230
+        "precio": 77.230,
+        "stock": 10
     },
     {
         "id": 13,
@@ -102,7 +114,8 @@
         "descripcion": "Afrodita es una pieza de oro 18k rosa, amarillo o blanco paladio.Cuenta con una cadena de alrededor de 45cm y un dije con una piedra cubic zirconia marca Swarovski talla brillante de 3mm.El peso del dije y la cadena es de aproximadamente 3gr. en total.Con todas nuestras piezas se entrega garantía escrita de por vida en cuanto al título del metal y calidad de las piedras.",
         "categoria": "cadena",
         "imagen": "https://paogi.com/cdn/shop/products/dIJEAFRODITAororosa_2.jpg?v=1674077513",
-        "precio": 592.800
+        "precio": 592.800,
+        "stock": 10
     },
     {
         "id": 14,
@@ -110,7 +123,8 @@
         "descripcion": "Afrodita es una pieza de oro 18k rosa, amarillo o blanco paladio.Cuenta con una cadena de alrededor de 45cm y un dije con un diamante natural talla brillante de 3mm de diámetro (.10CT).El peso del dije y la cadena es de aproximadamente 3gr en total.Todos los anillos incluyen un ajuste de medida sin cargo, por tres meses. Se entrega garantía escrita de por vida en cuanto al título del metal.",
         "categoria": "cadena",
         "imagen": "https://paogi.com/cdn/shop/products/afrodita-collar-amarillo-m_7a15db7c-3c42-4324-99b5-7d8298c41b8a.jpg?v=1680298795",
-        "precio": 673.100
+        "precio": 673.100,
+        "stock": 10
     },
     {
         "id": 15,
@@ -118,7 +132,8 @@
         "descripcion": "Heart es una pieza de oro 18k rosa, amarillo o blanco paladio.Cuenta con una cadena de alrededor de 45cm de largo.EL dije con un corazon cubic zirconia marca Swarovski talla oro brillante de 3mm de diámetro con alrededor  (.11CT). El peso del dije y la cadena es de aproximadamente aproximadamente 2gr en total .Con todas nuestras piezas se entrega garantía escrita de por vida en cuanto al título del metal.",
         "categoria": "cadena",
         "imagen": "https://paogi.com/cdn/shop/products/dije-heart-rosa-u-4.jpg?v=1680109989",
-        "precio": 359.160
+        "precio": 359.160,
+        "stock": 10
     },
     {
         "id": 16,
@@ -126,7 +141,8 @@
         "descripcion": "Selene es un collar de oro rosa, amarillo o blanco paladio, siempre en calidad 18 kilates. Con una cadena de aproximadamente 45cm tiene un peso aproximado de 5gr. El peso del anillo  es de aproximadamente alrededor 4gr en total .Con todas nuestras piezas se entrega garantía escrita de por vida en cuanto al título del metal y calidad de las piedras.",
         "categoria": "cadena",
         "imagen": "https://paogi.com/cdn/shop/products/collar-selene-rosa-u-4.jpg?v=1678998745",
-        "precio": 673.100
+        "precio": 673.100,
+        "stock": 10
     },
     {
         "id": 17,
@@ -134,7 +150,8 @@
         "descripcion": "Love es un collar compuesto por una cadena de plata 925 de alrededor  y un dije de cristal marca Swarovski.Con una cadena de aproximadamente 50cm tiene un peso aproximado de 2.5gr.El peso del cristal  es de aproximadamente alrededor 4gr en total .  Con todas nuestras piezas se entrega garantía escrita de por vida.",
         "categoria": "cadena",
         "imagen": "https://paogi.com/cdn/shop/files/dije-love-1.jpg?v=1685720883",
-        "precio": 33.070
+        "precio": 33.070,
+        "stock": 10
     },
     {
         "id": 18,
@@ -142,6 +159,7 @@
         "descripcion": "Style es un collar compuesto por una cadena de alrededor de 45cm totalmente elaborada en plata 925 de alrededor y un dije de cristal marca Swarovski. Con una cadena de aproximadamente 50cm tiene un peso aproximado de 1.5gr, junto a un dije de cristal Swarovski.Con todas nuestras piezas se entrega garantía escrita de por vida.",
         "categoria": "cadena",
         "imagen": "https://paogi.com/cdn/shop/products/DijeSTYLEBLUEMOON_1.jpg?v=1674077954",
-        "precio": 84.690
+        "precio": 84.690,
+        "stock": 10
     }
 ]

@@ -1,23 +1,23 @@
 import data from "../data/data.json";
 
 export const pedirDatos = () => {
-    return new Promise ((resolve, reject) => {
-        setTimeout ( () => {
+    return new Promise((resolve, reject) => {
+        setTimeout( () => {
             resolve(data);
-        },500)
+        }, 500)
     })
 }
 
-export const pedirItemPorId =  (id) => {
-    return new Promise ((resolve, reject) => {
-
-        const item = data.find ((el) => el.id === id);
+export const pedirItemPorId = (id) => {
+    return new Promise((resolve, reject) => {
+        
+        const item = data.find((el) => el.id === id);
 
         if (item) {
-            resolve(item)
-        }else {
+            resolve(item);
+        } else {
             reject({
-                error: " no seencontró el producto"
+                error: "No se encontró el producto"
             })
         }
 
